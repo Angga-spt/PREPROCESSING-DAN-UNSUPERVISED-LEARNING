@@ -84,6 +84,7 @@ Jumlah data awal:
 
 - Baris : 541910 entries
 - Kolom : 8 columns
+- saya ambil datanya hanya 2010-2011 tidak semua tahun
 
 ## Contoh Dataset
 
